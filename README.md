@@ -1,1 +1,1 @@
-# isotope_productvariantslist
+# isotope_productreadervariants
